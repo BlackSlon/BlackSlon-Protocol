@@ -1,4 +1,4 @@
-# BlackSlon White Paper: The New Architecture
+# BlackSlon White Paper
 
 ## 1. The New Architecture of European Energy Wholesale Markets
 
@@ -196,4 +196,43 @@ The "a" parameter in our formula is not a "price feed" that we copy. It is a mat
 
 BlackSlon bypasses the entire traditional banking architecture, where payments often take 24–48 hours to clear. In the legacy system, a wire transfer initiated in the afternoon might not reach the clearing house until the following day - frequently resulting in the exchange force-closing positions due to perceived margin shortfalls. BlackSlon **protocol** eliminates this by using decentralized **Liquidty** and algorithmic risk management, ensuring every position is backed by the **protocol**’s internal **Liquidty**, making your settlement guaranteed regardless of who is on the other side, replacing fragile bilateral trust with an immutable, code-governed settlement layer.
 
-By utilizing Euro-pegged stablecoins, the **protocol** achieves instant settlement finality. Institutional-grade settlement powered by Monerium. Every tokenized asset is backed by fully regulated, programmable Euro (EURe), ensuring seamless fiat-to-crypto **Liquidty** via SEPA transfers. There are no brokers, no clearing banks, and no trapped capital.
+By utilizing Euro-pegged stablecoins, the **protocol** achieves instant settlement finality. Institutional-grade settlement powered by Monerium. Every tokenized asset is backed by fully regulated, programmable Euro (EURe), ensuring seamless fiat-to-crypto **Liquidty** via SEPA transfers. There are no brokers, no clearing banks, and no trapped capital.This ensures that liquidty is reflected on-chain in seconds, aligning the local market with 100% EUR-quoted prices.
+
+### 3.5 Micro-Granularity & Fractional Liquidity
+
+The BlackSlon **protocol** reduces entry treshhold by four orders of magnitude, shatters this barrier by introducing high-granularity tokens. Instead of forcing participants to buy 8,760 MWh blocks, we fractionalize energy into accessible units.
+
+* **1 Token = 100 kWh:** BlackSlon lowers the minimum entry price from thousand of euros to the price of a small energy unit (e.g., €10).
+* **Democratizing the Complex:** By reducing the minimum trade size, it is opening the market to millions of potential participants.
+
+### 3.6 €BLSN: The Perpetual Energy Store of Value
+
+€BLSN is Perpetual Energy Hedge and currently the only liquid instrument on the European energy market that allows anyone to hedge against rising energy costs indefinitely. For years, as energy commodity trader, I was constantly told the same narrative: power prices are volatile and high because power cannot be stored efficiently. I realized that the biggest bottleneck wasn't just physical storage (which is more and more available today), it was the lack of a financial vessel that could hold energy potential across time. BlackSlon is that vessel. It is the only instrument today that allows you to store your energy exposure on a liquid, perpetual market, effectively breaking the old trap of fixed expiry dates. Since energy prices are the primary driver of global inflation, €BLSN token acts also as a high-fidelity inflation shield.
+
+### 3.7 The Universal Value Standard - BlackSlon Global Energy Index
+
+Traditional wholesale energy markets are fragmented into hundreds of expiring products: Intra-Day, Day-Ahead, Weekends, Months, BOM, Quarters, Seasonal and Years. This fragmentation forces participants to manage rollover and deposit risks and navigate historical price gaps between different products.
+
+The BlackSlon unified IPT (Index Participation Token) merges the entire wholesale price spectrum for specific local market and products into a single, perpetual Index.
+
+* **Asset vs. Contract:** IPT is not a contract for a specific period; it is a claim on the market value of energy (kWh) within a specific local market. It represents the Gold Standard of energy - a liquid asset that never expires, never needs to be rolled, and is always relevant.
+* **Consolidated Risk:** The BlackSlon algorithm reflects the aggregate value of all wholesale market signals, captured in one, non-decaying price point.
+* **Efficiency for Long-Term Holders:** A producer or an industrial consumer can hold their position for years without ever interacting with the "expiry" mechanics of legacy exchanges. The IPT remains "current" as the **protocol** continuously settles against the underlying physical reality.
+
+### 3.8 From Digital Hedge to Physical Delivery
+
+The ultimate evolution of the BlackSlon **protocol** is the bridge between decentralized finance and the physical power/gas grid or oil products markets, where IPT tokens are redeemable claims for physical energy.
+
+* **The Pure Energy Settlement:** A standard energy bill for a typical household consumer or factory consists of the commodity price (product), plus non-negotiable costs, such as distribution and capacity fees (service) and taxes (VAT, Excise Duty). BlackSlon focuses on the largest variable: Energy Commodity Price.
+* **Redemption Mechanism:** Through strategic partnerships with licensed Retail Energy Providers, users will be able to "burn" their IPT tokens to cover the energy component of their utility bills or EV charge.
+* **The Role of the Provider:** The partner provider accepts IPT as payment, executes the physical delivery, and invoices the customer only for the unavoidable service costs and taxes.
+
+### 3.9 Decentralized Risk Discovery: Matrix of BlackSlon Events
+
+Traditional risk assessment is fundamentally flawed. Behavioral economics has proven that humans are incapable of objective risk assessment and struggle to accurately estimate probability. Market participants often demonstrate a tendency to pay a higher premium for insurance against a specific, vivid threat - such as a hurricane or blizzard - than for a comprehensive policy covering all extreme weather events.
+
+We have repeatedly observed this phenomenon in energy markets: the price premium driven by the fear of a supply disruption, explosion, or regulatory shift often far exceeds the actual economic impact once the event occurs. When the risk finally materializes, prices frequently drop, revealing that the fear premium priced into price was irrational.
+
+BlackSlon addresses this inefficiency by providing a decentralized **protocol**: The Matrix of BlackSlon Events, where users can propose, stake, and trade these specific risk premiums. By isolating these BlackSlon Events from the core Energy Indexes, we provide the market with the real tool to price risk.
+
+Matrix operates on a Decentralized Parimutuel Betting Mechanism. Unlike fixed-odds systems, the **Liquidty** in our **protocol** is entirely peer-to-peer. The potential Yield (percentage return) for any event is dynamically calculated by the ratio of opposing stakes:
