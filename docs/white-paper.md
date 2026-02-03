@@ -371,3 +371,39 @@ Unlike legacy systems where collateral is hidden in bank ledgers, BlackSlon offe
 
 * **On-Chain Auditing:** Anyone can verify the total **Liquidty** and the 200% collateral backing short positions in real-time.
 * **Solvency Assurance:** The **protocol**’s smart contracts are programmed to be "always solvent," meaning every IPT in circulation is mathematically backed by the required €BLSN reserves.
+
+## 8. Roadmap: Strategic Execution
+
+The rollout of the BlackSlon **protocol** is divided into four strategic phases, moving from a deterministic mathematical model to a fully integrated physical energy settlement layer.
+
+### Phase 1: Genesis & Core Infrastructure (Q1 - Q2 2026)
+
+* **Protocol Deployment:** Launch of the €BLSN utility token and core smart contracts on Polygon zkEVM.
+* **The "Liquidity Seed":** Initiation of the first BlackSlon Power and Gas Indexes (BS-G-x/BS-P-x) and Matrix of BlackSlon Events.
+* **Security Audit:** Full smart contract audit by Tier-1 blockchain security firms to validate the $$P = a \cdot e^{b \cdot S}$$ mechanism.
+
+### Phase 2: Ecosystem Expansion & Deep Liquidty (Q3 - Q4 2026)
+
+* **Expansion of the Index Portfolio:** Adding more BlackSlon Power and Gas Indexes.
+* **Incentivized Liquidity Programs:** Launch of staking rewards for €BLSN holders to bootstrap the "Stability Margin" for new indexes.
+* **Mobile dApp:** Release of the BlackSlon mobile interface with "one-click" simplicity.
+* **Strategic Partnerships:** Onboarding the first 5 licensed Retail Energy Providers to prepare for the physical settlement bridge.
+
+### Phase 3: The Physical Bridge & Fractionalization (Q1 - Q3 2027)
+
+* **Physical Redemption Pilot:** First "Burn-to-Bill" pilot program, allowing industrial users in choosen local market to settle Energy (Product) component of their invoices using IPT tokens.
+* **Cross-Chain Interoperability:** Expansion to additional Layer 2 networks to increase the reach of the Energy Ecosystem.
+
+### Phase 4: Full Autonomy & Global Scale (2027+)
+
+* **DAO Transition:** Transfer of **protocol** parameters (fees, buy-back rates, new index approval) to full €BLSN governance.
+* **Commodity Expansion:** Introducing decentralized indexes for Refined Oil Products, small LNG, Carbon Credits and Spread Indexes between Gas & Power Hubs (virtual inter-connectors/transmission costs).
+* **The Global Energy Standard:** Transitioning from a regional tool to the world’s first decentralized, 24/7/365 infrastructure for energy valuation, effectively creating a Unified Global Energy Index for Gas and Power as a liquid, on-chain base currency.
+
+## 9. Governance & The DAO Evolution
+
+The BlackSlon **protocol** is designed to transition into a fully Decentralized Autonomous Organization (DAO).
+
+* **Protocol Proposals:** €BLSN holders can propose and vote on new energy index integrations (e.g. Natural Gas/ Power/ Diesel/ Gasoline/Spreads).
+* **Fee Parameter Adjustment:** The community decides on the allocation of the "Buy-back and Burn" percentages to adapt to changing market conditions.
+* **Emergency Shutdown (The Guardian Clause):** In the event of a catastrophic black-swan event in the physical energy grid, the **protocol** can trigger a "Settlement-Only" mode to protect user capital.
