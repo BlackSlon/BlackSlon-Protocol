@@ -1,20 +1,27 @@
-# BlackSlon Energy Indexes: The Decentralized Energy Marketplace Protocol
-BlackSlon is a next-generation **protocol** designed to dismantle centralized bottlenecks in European Energy Wholsale markets (power, natural gas, oil products). Inspired by the "Zero Form" of Kazimierz Malewicz and the market revolution of Marc Rich, I strip away inefficient layers of traditional trading, i.e. Expiration, Entry/Exit Spread, Credit/Counterparty Risk, Barrier to Entry, Limited Trading Hours and Price Curve/Seasonality. It's a real-time Energy Index generated not by human actions, but by on-chain Liquidty.
+# BlackSlon Protocol: New Standard for Energy Valuation, Trading & Hedging
 
-## The Vision
-In Slavic languages, Slon / Слон means Elephant, and for me BlackSlon is the ultimate synthesis of my vision: the Black Swan - the unpredictable event, and the Black Elephant - the 'Elephant in the Room' of the energy markets — obvious systemic inefficiencies that the protocol addresses through deterministic Liquidty.
+![Energy Liquidity](https://img.shields.io/badge/Liquidity-Decentralized-black)
+![Network](https://img.shields.io/badge/Network-Polygon_zkEVM-8247E5)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## Price Determination Formula
-Our protocol utilizes a deterministic bonding curve to ensure transparent price settlement:
+The **BlackSlon Protocol** is a next-generation decentralized framework designed to dismantle centralized bottlenecks in European Energy Wholesale markets. By leveraging deterministic mathematical stabilizers, we bridge the gap between high-frequency energy trading and on-chain transparency.
+
+## ⚡ Core Innovation
+
+Traditional markets suffer from fragmentation and high entry barriers. BlackSlon introduces **Micro-Granularity**, allowing participants to trade energy in units as small as **100 kWh**, effectively shattering the MWh-block barrier.
+
+### The Pricing Engine
+At the heart of our **protocol** lies the autonomous bonding curve:
 
 $$P = a \cdot e^{b \cdot S}$$
 
-where:
-P (Current Price): The real-time price of one Index Participation Token (IPT), representing a fixed unit of energy (100 kWh).
-a (Base Market Anchor): This is the "starting point" for the Index price. The protocol uses decentralized oracles to pull the MtM value from physical exchanges/OTC markets/boots on the ground verification
-e (Euler's Number): A mathematical constant. In our protocol, it enables continuous growth modeling, ensuring the price curve remains smooth and predictable rather than volatile and gappy.
-b (Sensitivity Factor): The Liquidity Multiplier. This parameter dictates how sensitive the price is to buy/sell pressure. For high-volume benchmarks, b is lower; for niche, illiquid markets, b is adjusted to reward early liquidity providers.
-S (Supply / Circulating Volume): The total amount of IPTs/energy tokens currently held within the specific index pool. As more participants enter the Liquidty pool, S increases, causing P to move along the curve.
+This formula ensures that **Liquidty** is algorithmic and deterministic, providing an instant counterparty for every trade regardless of legacy exchange hours.
 
-## About the Founder
-Energy Commodities Trader with 20+ years of market experience, moving commodities across OTC and Exchange markets of Central, Eastern and Southern Europe (CEE & SEE), but also have been operated on the financial and physical markets of North - Western Europe (NWE), incl. ICE, EEX, EPEX Spot and TGE exchanges. I navigated CEE/SEE illiquidity and NWE liquidity to capture profound market anomalies. I have been trading Natural Gas, Electricity, Crude Oil and Refined Products (Diesel/Gasoline/LPG), as well as Environmental Products, like Carbon Emissions Allowances (EUA), Green Certificates and complex Cross-Commodity Spreads. Alumnus of International Relations (Warsaw University, St. Petersburg State University, MGIMO in Moscow).
+## 🚀 Quick Start
+
+1. **Explore the White Paper:** Read our full documentation in the `/docs` folder.
+2. **Connect:** Use the API Gateway to bridge your trading bots to the local Energy Indexes.
+3. **Govern:** Stake €BLSN to participate in the DAO expansion.
+
+---
+*Built for the future of energy. Transparent. Autonomous. Liquid.*
