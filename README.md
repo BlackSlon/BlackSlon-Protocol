@@ -24,11 +24,11 @@ $$P = a \cdot e^{b \cdot S}$$
 
 ## About the Founder
 **Energy Commodities Trader with 20+ years of market experience.**
-I have moved commodities across OTC and Exchange markets of Central, Eastern, and Southern Europe (CEE & SEE), as well as North-Western Europe (NWE), including ICE, EEX, EPEX Spot, and TGE. 
+I have moved commodities across OTC and Exchange markets of Central, Eastern, and Southern Europe (CEE & SEE), as well as the financial and physical markets of North-Western Europe (NWE), including ICE, EEX, EPEX Spot, and TGE. 
 
 * **Traded Assets:** Natural Gas, Electricity, Crude Oil, Refined Products (Diesel/Gasoline/LPG), and Carbon Emissions (EUA).
 * **Background:** Alumnus of International Relations (Warsaw University, St. Petersburg State University, MGIMO).
-* **Expertise:** Navigating illiquidity and capturing market anomalies through complex Cross-Commodity Spreads.
+* **Expertise:** Navigating CEE/SEE illiquidity and NWE liquidity to capture profound market anomalies and oportunities and Cross-Commodity Spreads.
 
 ---
 *Built for the future of energy. Transparent. Autonomous. Liquid.*
