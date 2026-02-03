@@ -4,8 +4,6 @@ The energy market is the backbone of the global economy, yet it remains one of t
 
 **BlackSlon** is the first decentralized **protocol** designed to solve the systemic failures of the European energy wholesale market. By leveraging an autonomous bonding curve mechanism ($$P = a \cdot e^{b \cdot S}$$), we collapse fragmented, illiquid forward curves into a single, transparent, and 24/7/365 **Liquidty** engine: the **BlackSlon Index (BSI)**.
 
-$$P = a \cdot e^{b \cdot S}$$
-
 **Key Value Propositions:**
 
 * **Democratized Access:** We reduce the minimum entry threshold by four orders of magnitude, allowing participation starting from 100 kWh instead of the rigid 1 MW Baseload blocks.
