@@ -1,11 +1,11 @@
 # BlackSlon Energy Indexes: The Decentralized Energy Marketplace Protocol
-BlackSlon is a next-generation **protocol** designed to dismantle centralized bottlenecks in European Energy Wholsale markets (power, natural gas, oil products). Inspired by the "Zero Form" of Kazimierz Malewicz and the market revolution of Marc Rich, I strip away inefficient layers of traditional trading.
+BlackSlon is a next-generation **protocol** designed to dismantle centralized bottlenecks in European Energy Wholsale markets (power, natural gas, oil products). Inspired by the "Zero Form" of Kazimierz Malewicz and the market revolution of Marc Rich, I strip away inefficient layers of traditional trading, i.e. Expiration, Entry/Exit Spread, Credit/Counterparty Risk, Barrier to Entry, Limited Trading Hours and Price Curve/Seasonality. It's a real-time Energy Index generated not by human actions, but by on-chain Liquidty.
 
 ## The Vision
-I have distilled energy valuation of its most exhausting layers: Expiration, Entry/Exit Spread, Credit/Counterparty Risk, Barrier to Entry, Limited Trading Hours and Price Curve/Seasonality. It's a real-time Energy Index generated not by human actions, but by on-chain Liquidty.
+In Slavic languages, Slon / Слон means Elephant, and for me BlackSlon is the ultimate synthesis of my vision: the Black Swan - the unpredictable event, and the Black Elephant - the 'Elephant in the Room' of the energy markets — obvious systemic inefficiencies that the protocol addresses through deterministic Liquidty.
 
 ## Price Determination Formula
-Our protocol utilizes a deterministic bonding curve to ensure transparent price discovery:
+Our protocol utilizes a deterministic bonding curve to ensure transparent price settlement:
 
 $$P = a \cdot e^{b \cdot S}$$
 
