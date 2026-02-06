@@ -1,4 +1,4 @@
-# Executive Summary: The Energy Liquidity Revolution
+# Executive Summary: The New Architecture of Energy Trading - Fragmented Markets, Unified Liquidity
 
 The energy market is the backbone of the global economy, yet it remains one of the most closed, opaque, and capital-inefficient systems in existence. While the world has transitioned to digital finance, energy trading is still stifled by 20th-century legacy infrastructure, high entry barriers, and political interference.
 
