@@ -320,7 +320,7 @@ To ensure long-term scarcity and price appreciation, BlackSlon implements a Defl
 The BlackSlon **protocol** employs a collateral system using the native €BLSN token to back every trade of IPT (Index Participation Tokens). This ensures that every kWh represented in the system is financially secured.
 
 * **Net Buying (Long) - 50% Collateral:** To purchase energy (IPT), a participant must provide 50% of the position value in €BLSN as a "Stability Margin." This lowers the entry barrier, while still ensuring **Liquidty**.
-* **Net Selling (Short/Hedging) - 200% Collateral:** To prevent predatory short selling and ensure that the Energy Ecosystem remains anchored to physical reality, sellers must provide 200% collateral in €BLSN.
+* **Net Selling (Short/Hedging) - 100% Collateral:** To prevent predatory short selling and ensure that the Energy Ecosystem remains anchored to physical reality, sellers must provide 100% collateral in €BLSN.
 
 This high threshold acts as a "Circuit Breaker" against market manipulation. It ensures that any entity selling energy on the **protocol** has significant Skin in the Game. It protects the system from the death spirals.
 
