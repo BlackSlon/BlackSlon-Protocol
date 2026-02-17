@@ -1,8 +1,8 @@
-# Executive Summary: The New Architecture of Energy Trading - Fragmented Markets, Unified Liquidity
+# Executive Summary: New Architecture and Benchmark for Energy Trading
 
 The energy market is the backbone of the global economy, yet it remains one of the most closed, opaque, and capital-inefficient systems in existence. While the world has transitioned to digital finance, energy trading is still stifled by 20th-century legacy infrastructure, high entry barriers, and political interference.
 
-**BlackSlon** is the first decentralized **protocol** designed to solve the systemic failures of the European energy wholesale market. By leveraging an autonomous bonding curve mechanism ($$P = a \cdot e^{b \cdot S}$$), we collapse fragmented, illiquid forward curves into a single, transparent, and 24/7/365 **Liquidty** engine: the **BlackSlon Index (BSI)**.
+**BlackSlon** is the first decentralized **protocol** designed to provide market access to European energy wholesale markets. By leveraging an autonomous bonding curve mechanism ($$P = a \cdot e^{b \cdot S}$$), we collapse fragmented, illiquid forward curves into a single, transparent, and 24/7/365 **Liquidty** engine: the **BlackSlon Index (BSI)**.
 
 **Key Value Propositions:**
 
